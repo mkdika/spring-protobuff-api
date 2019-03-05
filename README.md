@@ -1,6 +1,6 @@
 # Spring Protocol Buff API Example
 
-Spring Boot and Google protocol buffer API example.
+Spring Boot and Google protocol buffer API example with Kotlin.
 
 
 
